@@ -1,12 +1,13 @@
+
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package Suhu;
+package tugas2;
 
 /**
  *
- * @author khali
+ * @author ASUS
  */
 public class KonversiSuhu {
     public double suhu;
@@ -23,3 +24,4 @@ public class KonversiSuhu {
         System.out.println(this.suhu + " Celcius\t\t= " + ((4 * this.suhu / 5)) + " R");
     }
 }
+
